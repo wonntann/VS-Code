@@ -1,4 +1,4 @@
-This repo will take you through the steps to setup SSH remote access for your local machines, as well as, on VS Code without having to keep working in the terminal.
+This repo will help you remotely connect to different authorized computers on the same network via SSH and walk you through the steps to use VS Code Remote SSH extension.
 
 
 <!--  SHIELDS  -->
