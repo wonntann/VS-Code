@@ -2,9 +2,9 @@ This repo will help you remotely connect to different authorized computers on th
 
 
 <!--  SHIELDS  -->
-![GitHub](https://img.shields.io/github/license/wonntann/vscode?color=informational&logoColor=yellow&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/wonntann/vscode?color=red&style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues-raw/wonntann/vscode?color=critical&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/wonntann/vs-code?color=informational&logoColor=yellow&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/wonntann/vs-code?color=red&style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues-raw/wonntann/vs-code?color=critical&style=for-the-badge)
 
 <div id="top"></div>
 
