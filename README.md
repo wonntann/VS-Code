@@ -12,7 +12,7 @@ This repo will help you install, manage and effectively use Visual Studio Code o
 
 # Table of Contents
 - [How To Read This](#how-to-read-this)
-- [Documentation]()
+- Documentation
     - [Connecting Two Local Machines via SSH](./ssh.md)
 - [Extra Reading](#extra-reading)
 - [Contributing](#contributing)
