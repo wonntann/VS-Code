@@ -26,6 +26,7 @@ Included in this repository are the steps that I took in order to work with VS C
 - If you would like to jump to sections and you are within the GitHub website, locate the **Table of Contents** menu in the upper left of this repo header (and select from the dropdown
 - Using Linux, you can use chroot dualboot or enable Linux on your Chromebook, either way it is personal preference.
 - Example code may have **~$** or any symbols before the command, do not copy that into your terminal.
+- If there are multiple lines of code, copy each complete line as one respective command, unless told otherwise
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
