@@ -1,11 +1,5 @@
 This repo will help you remotely connect to different authorized computers on the same network via SSH and walk you through the steps to use VS Code Remote SSH extension.
 
-
-<!--  SHIELDS  -->
-![GitHub](https://img.shields.io/github/license/wonntann/vs-code?color=informational&logoColor=yellow&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/wonntann/vs-code?color=red&style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues-raw/wonntann/vs-code?color=critical&style=for-the-badge)
-
 <div id="top"></div>
 
 ![VS Code Remote SSH](assets/title-remote.png)
@@ -91,10 +85,10 @@ Below are the steps that I took in order to connect via VS Code over SSH on the 
 <div id="requirements"></div>
 
 ## Requirements For Two Machines On The Same Network
-    1. On client machine: Install [OpenSSH compatible SSH client](https://code.visualstudio.com/docs/remote/troubleshooting#_installing-a-supported-ssh-client)
-    2. On server machine: Install [OpenSSH compatible SSH server](https://code.visualstudio.com/docs/remote/troubleshooting#_installing-a-supported-ssh-server)
-    3. Install [Visual Studio Code](https://code.visualstudio.com/)
-    4. Install [Remote Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+1. On client machine: Install [OpenSSH compatible SSH client](https://code.visualstudio.com/docs/remote/troubleshooting#_installing-a-supported-ssh-client)
+2. On server machine: Install [OpenSSH compatible SSH server](https://code.visualstudio.com/docs/remote/troubleshooting#_installing-a-supported-ssh-server)
+3. Install [Visual Studio Code](https://code.visualstudio.com/)
+4. Install [Remote Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
