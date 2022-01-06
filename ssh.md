@@ -95,7 +95,7 @@ Below are the steps that I took in order to connect via VS Code over SSH on the 
 # How To Connect Your Machine
 ## Exercise 1 Connecting Two Local Machines via SSH
 1. Setup SSH host
-    - Iinstall the ssh openssh on the server (machine #1 that is hosting information and connecting to the other machine)
+    - Install the ssh openssh on the server (machine #1 that is hosting information and connecting to the other machine)
 - On Linux:
     ``` bash
     sudo apt-get install openssh-server
