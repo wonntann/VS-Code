@@ -14,6 +14,7 @@ This repo will help you install, manage and effectively use Visual Studio Code o
 - [How To Read This](#how-to-read-this)
 - Documentation
     - [Connecting Two Local Machines via SSH](./ssh.md)
+    - [Sync Settings](./sync-settings.md)
 - [Extra Reading](#extra-reading)
 - [Contributing](#contributing)
 - [License](#license)
