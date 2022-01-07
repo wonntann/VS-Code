@@ -3,7 +3,9 @@
 - Install [Git](https://git-scm.com/)
 - Install [Yeoman](https://yeoman.io/) or with 2 commands in the terminal:
   ``` bash
-  sudo npm install -g yo
-  npm install -g generator-webapp
+  npm install -g yo
   ```
 - Install [VS Code Extension Generator](https://www.npmjs.com/package/generator-code)
+  ``` bash
+  sudo npm install -g generator-webapp
+  ```
