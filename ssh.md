@@ -5,14 +5,14 @@ This repo will help you remotely connect to different authorized computers on th
 ![VS Code Remote SSH](assets/title-remote.png)
 
 # Table of Contents
-- [Extension Used In This Repository](#extension-used-in-this-repository) 
-    - [What Is SSH?](#what-is-ssh?)
-    - [Common Uses](#common-uses)
 - [How To Read This](#how-to-read-this)
     - [Learning Objectives](#learning-objectives)  
     - [Terminology](#terminology)  
     - [What You Need](#what-you-need")
     - [Requirements For Two Machines On The Same Network](#requirements-for-machines-on-the-same-network)
+    - [Extension Used In This Repository](#extension-used-in-this-repository) 
+- [What Is SSH?](#what-is-ssh?)
+    - [Common Uses](#common-uses)
 - [How To Connect Your Machine](#how-to-connect-your-machine)
     - [Exercise 1: Connecting Two Local Machines via SSH](#exercise-1-connecting-two-local-machines-via-ssh)
     - [Exercise 2: Working in VS Code](#exercise-2-working-in-vs-code)
@@ -20,24 +20,6 @@ This repo will help you remotely connect to different authorized computers on th
 - [License](#license)
 - [Contact](#contact)
  
-
-# Extension Used In This Repository
-- [Remote - SSH Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-
-## What Is SSH?
-SSH, secure shell protocol, allows access to a remote machine (i.e. computer, virtual machine, raspberry pi...), by implementing the client-server model. In this example, a server host will share their resources to the client, while the client will request a service from a server and not reciprocate in sharing resources. The server can be defined as the host machine that is housing the desired data and the client is another machine that is capable of receiving that data. This access is not limited to folders and files, SSH allows you to access an app on a different machine, affording you the ability to view, modify, run and/or debug the files located on the connected device.
-
-Along with this ease of file access, there is an inherent security risk. Only connect to known and trusted sources since you will be accessing your entire machine remotely and do not share your SSH keys.
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Common Uses
-Schools
-    - SSH into lab machines to access that machine's dependencies required for an assignment, without needing that sepcific operating system.
-
-Home
-    - Want to access information/documents on another computer already setup with SSH. Allows you to transfer files over SSH over using a USB, the cloud, or any other external device.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 # How To Read This
 Below are the steps that I took in order to connect via VS Code over SSH on the same network with two different machines. Optionally, you can go through the first exercise to connect the machines via SSH, then go through the second exercise to connect vis the VS Code SSH extension, in order to work with your files with a text editor called VS Code.
@@ -91,6 +73,26 @@ Below are the steps that I took in order to connect via VS Code over SSH on the 
 4. Install [Remote Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Extension Used In This Repository
+- [Remote - SSH Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+# What Is SSH?
+SSH, secure shell protocol, allows access to a remote machine (i.e. computer, virtual machine, raspberry pi...), by implementing the client-server model. In this example, a server host will share their resources to the client, while the client will request a service from a server and not reciprocate in sharing resources. The server can be defined as the host machine that is housing the desired data and the client is another machine that is capable of receiving that data. This access is not limited to folders and files, SSH allows you to access an app on a different machine, affording you the ability to view, modify, run and/or debug the files located on the connected device.
+
+Along with this ease of file access, there is an inherent security risk. Only connect to known and trusted sources since you will be accessing your entire machine remotely and do not share your SSH keys.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Common Uses
+Schools
+    - SSH into lab machines to access that machine's dependencies required for an assignment, without needing that sepcific operating system.
+
+Home
+    - Want to access information/documents on another computer already setup with SSH. Allows you to transfer files over SSH over using a USB, the cloud, or any other external device.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 # How To Connect Your Machine
 ## Exercise 1 Connecting Two Local Machines via SSH
