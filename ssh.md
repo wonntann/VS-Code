@@ -2,7 +2,7 @@ This repo will help you remotely connect to different authorized computers on th
 
 <div id="top"></div>
 
-![VS Code Remote SSH](assets/title-remote.png)
+![VS Code Remote SSH](assets/remote-connection.png)
 
 # Table of Contents
 - [How To Read This](#how-to-read-this)
