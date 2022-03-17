@@ -1,4 +1,4 @@
-This repo will help you remotely connect to different authorized computers on the same network via SSH and walk you through the steps to use VS Code Remote SSH extension.
+This repo will help you remotely connect to different authorized computers on the same network via SSH and walk you through the steps to use VS Code Remote SSH extension. This can be read on [Hashnode](https://wonntann.hashnode.dev/how-to-access-documents-on-a-different-computer-wirelessly), as well.
 
 <div id="top"></div>
 
