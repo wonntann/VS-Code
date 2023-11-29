@@ -8,7 +8,7 @@ This repo will help you install, manage and effectively use Visual Studio Code o
 
 <div id="top"></div>
 
-![VS Code Remote SSH](assets/remote-connection.png)
+![VS Code Remote SSH](assets/remote-connection.png](https://github.com/wonntann/VS-Code/blob/main/assets/remote-connection.png)
 
 # Table of Contents
 - [How To Read This](#how-to-read-this)
