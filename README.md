@@ -65,7 +65,7 @@ Distributed under the MIT License. See `./LICENSE` for more information.
 ## Contact
 Tanya - [@wonntann](https://twitter.com/wonntann)
 
-Project Link: [https://github.com/wonntann/vscodes](https://github.com/wonntann/vscode)
+Project Link: [https://github.com/wonntann/vscode](https://github.com/wonntann/VS-Code)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
